@@ -6,7 +6,7 @@ A Video Game Developer takes a game concept from a game designer and turns it in
 ## Typical duties and responsibilities
 They program the terrain, artificial intelligence of the NPCs, audio, visuals, etc. 
 ## Required education
-
+Generally requires a bachelor in computer science or software engineering. Sometimes an unrelated degree is satisfactory if the person is proficient in relevant programming languages. 
 
 ## Required technical and non-technical skills
 ## Examples of an Entry Level, Average, and High Level jobs with salary Range
