@@ -85,7 +85,12 @@ Experience with:
 67k-91k/year
 
 ## College and/or universities that offers entrance into a related program 
+The University of Toronto offers entrance into Computer Science, where you can earn a Bachelor of Computer Science
 ## Entrance requirements
+
+
 ## description of first year program (courses) that you would take
+
 ## the length of time to complete the degree or diploma for the course 
+
 ## Valuable experiential learning opportunities that make for a stronger job candidate
