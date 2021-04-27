@@ -111,6 +111,7 @@ Approximate Admission Range: Low 90s
 ## Description of first year program (courses) that you would take
 Students will take first year calculus, 3-4 computer programming courses and two to three additonal half courses. 
 ![pic1](https://user-images.githubusercontent.com/82913336/116168200-e5df7480-a6cf-11eb-8ab8-764feabeab91.png)
+
 (University of Toronto, 2014)
 ![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
 (University of Toronto, 2014)
@@ -121,23 +122,23 @@ Computer Science at the Universty of Toronto is a four year program.
 * Run a blog regarding video games
 * Attend conventions regarding video game development. Network and find people who have already achieved your goals (connections turn into opportunity)
 ## Works Cited
-“Backend Programmer (MMO Game Services) Clapfoot Inc. Job (with Salary!) | Workopolis.” Workopolis, 5 Apr. 2021, www.workopolis.com/jobsearch/find-jobs?ak=Backend+Programmer+%28MMO+Game+Services%29+Clapfoot+Inc.&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA. Accessed 26 Apr. 2021.
+“Backend Programmer (MMO Game Services) Clapfoot Inc. Job (with Salary!) | Workopolis.” Workopolis, 5 Apr. 2021, [www.workopolis.com/jobsearch/find-jobs?ak=Backend+Programmer+%28MMO+Game+Services%29+Clapfoot+Inc.&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA](https://www.workopolis.com/jobsearch/find-jobs?ak=Backend+Programmer+%28MMO+Game+Services%29+Clapfoot+Inc.&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA). Accessed 26 Apr. 2021.
 
-“Computer Science Admission Category.” Faculty of Arts & Science, 12 Dec. 2019, www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3. Accessed 27 Apr. 2021.
+“Computer Science Admission Category.” Faculty of Arts & Science, 12 Dec. 2019, [www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3](https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3). Accessed 27 Apr. 2021.
 
-“Game Developer.” Workopolis, 5 Apr. 2021, www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw. Accessed 26 Apr. 2021.
+“Game Developer.” Workopolis, 5 Apr. 2021, [www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=RjEJKNaWOm-ILJZ5BLv_97fnCH3crbNhMaBBFvyjpW_R-OfHOq0R3A). Accessed 26 Apr. 2021.
 
-‌How to Apply to the CS Program — Department of Computer Science, University of Toronto. “Department of Computer Science, University of Toronto.” Department of Computer Science, University of Toronto, 2014, web.cs.toronto.edu/undergraduate/how-to-apply-to-the-cs-program. Accessed 23 Apr. 2021.
+‌How to Apply to the CS Program — Department of Computer Science, University of Toronto. “Department of Computer Science, University of Toronto.” Department of Computer Science, University of Toronto, 2014, [web.cs.toronto.edu/undergraduate/how-to-apply-to-the-cs-program](https://web.cs.toronto.edu/undergraduate/how-to-apply-to-the-cs-program). Accessed 23 Apr. 2021.
 
-‌K, Dustin. “Game Developer 101: The In-Depth Guide for 2020.” The Ultimate Resource for Video Game Design, 31 July 2017, www.gamedesigning.org/career/game-developer/. Accessed 23 Apr. 2021.
+‌K, Dustin. “Game Developer 101: The In-Depth Guide for 2020.” The Ultimate Resource for Video Game Design, 31 July 2017, [www.gamedesigning.org/career/game-developer/](https://www.gamedesigning.org/career/game-developer/). Accessed 23 Apr. 2021.
 
-“Lead Game Developer (Unity, VR).” Workopolis, 9 Apr. 2021, www.workopolis.com/jobsearch/creative-game-technologies-jobs/toronto-ontario?job=fLicNhRYASndxOPTRJ8iL-xy6tyW4DNTJ4sS5qgHt22Nd7U-_K0ToA. Accessed 26 Apr. 2021.
+MasterClass. “How to Become a Video Game Developer.” MasterClass, MasterClass, 20 July 2020, [www.masterclass.com/articles/how-to-become-a-video-game-developer#learn-more](https://www.masterclass.com/articles/how-to-become-a-video-game-developer#quiz-0). Accessed 23 Apr. 2021.
 
-MasterClass. “How to Become a Video Game Developer.” MasterClass, MasterClass, 20 July 2020, www.masterclass.com/articles/how-to-become-a-video-game-developer#learn-more. Accessed 23 Apr. 2021.
+“Senior/ Lead Web Game Engineer (Developer).” Workopolis, 13 Apr. 2021, [www.workopolis.com/jobsearch/find-jobs?ak=knowledgehook&l=toronto+ontario&job=w_mDy96078e1P3AYkDzg5yknV_-Do_i7tJxGvnJ5rEpXk_2_m1g_hw](https://www.workopolis.com/jobsearch/find-jobs?ak=knowledgehook&l=toronto+ontario&job=w_mDy96078e1P3AYkDzg5yknV_-Do_i7tJxGvnJ5rEpXk_2_m1g_hw). Accessed 27 Apr. 2021.
+‌
+TalentLyft. “Game Programmer Job Description Template.” Recruiting and Hiring Resources, 2021, [www.talentlyft.com/en/resources/game-programmer-job-description](https://www.talentlyft.com/en/resources/game-programmer-job-description). Accessed 27 Apr. 2021.
 
-TalentLyft. “Game Programmer Job Description Template.” Recruiting and Hiring Resources, 2021, www.talentlyft.com/en/resources/game-programmer-job-description. Accessed 27 Apr. 2021.
-
-Target Jobs. “Video Game Developer: Job Description.” TARGETjobs, 28 Mar. 2017, targetjobs.co.uk/careers-advice/job-descriptions/455349-video-game-developer-job-description#:~:text=Video%20game%20developers%20take%20a,a%20playable%20game%20for%20users.&text=Video%20game%20developers%2C%20also%20known,web%20browsers%20and%20mobile%20phones.. Accessed 22 Apr. 2021.
+Target Jobs. “Video Game Developer: Job Description.” TARGETjobs, 28 Mar. 2017, [targetjobs.co.uk/careers-advice/job-descriptions/455349-video-game-developer-job-description#:~:text=Video%20game%20developers%20take%20a,a%20playable%20game%20for%20users.&text=Video%20game%20developers%2C%20also%20known,web%20browsers%20and%20mobile%20phones](https://targetjobs.co.uk/careers-advice/job-descriptions/455349-video-game-developer-job-description#:~:text=Video%20game%20developers%20take%20a,a%20playable%20game%20for%20users.&text=Video%20game%20developers%2C%20also%20known,web%20browsers%20and%20mobile%20phones).. Accessed 22 Apr. 2021.
 
 
 ‌
