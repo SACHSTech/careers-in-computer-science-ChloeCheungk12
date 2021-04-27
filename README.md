@@ -34,6 +34,7 @@ Generally, the salary of a video game developer in the US is:
 ##### Estimated Salary
 53k-70k/year 
 
+[Workopolis Job Posting](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw) 
 
 ### Mid-Level Job
 #### Backend Programmer at Clapfoot Inc. (Toronto, ON)
@@ -54,7 +55,7 @@ Generally, the salary of a video game developer in the US is:
 
 ##### Estimated Salary
 73k-100k/year
-
+[Workopolis Job Posting](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA)
 ### Senior Level Job
 #### Lead Game Developer (Unity, VR) at Dark Slope (Toronto, ON)
 ##### Actual Job description
@@ -83,6 +84,7 @@ Experience with:
 
 ##### Salary
 67k-91k/year
+[Workopolis Job Posting](https://www.workopolis.com/jobsearch/creative-game-technologies-jobs/toronto-ontario?job=fLicNhRYASndxOPTRJ8iL-xy6tyW4DNTJ4sS5qgHt22Nd7U-_K0ToA)
 
 ## College and/or universities that offers entrance into a related program 
 The University of Toronto offers entrance into Computer Science, where you can earn a Bachelor of Computer Science
@@ -93,11 +95,14 @@ The University of Toronto offers entrance into Computer Science, where you can e
 -Calculus & Vectors (MCV4U)
 -English (ENG4U)
 
-## description of first year program (courses) that you would take
+## Description of first year program (courses) that you would take
 Students will take first year calculus, 3-4 computer programming courses and two to three additonal half courses. 
 ![pic1](https://user-images.githubusercontent.com/82913336/116168200-e5df7480-a6cf-11eb-8ab8-764feabeab91.png)
 ![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
 
-## the length of time to complete the degree or diploma for the course 
+## The length of time to complete the degree or diploma for the course 
 Computer Science at the Universty of Toronto is a four year program.
 ## Valuable experiential learning opportunities that make for a stronger job candidate
+* Build a portfolio and fill it with personal projects. Make a game that demonstrates technical skills
+* Run a blog regarding video games
+* Attend conventions regarding video game development. Network and find people who have already achieved your goals (connections turn into opportunity)
