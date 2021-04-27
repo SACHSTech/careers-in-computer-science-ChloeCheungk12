@@ -1,10 +1,17 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4640652&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science
 ## Name and description of the career
-A Video Game Developer takes a game concept from a game designer and turns it into a playable game through programming.
+**Video Game Developer** 
+Takes a game concept from a game designer and turns it into a playable game through programming.
 
 ## Typical duties and responsibilities
-They program the terrain, artificial intelligence of the NPCs, audio, visuals, etc. 
+* They program the terrain, artificial intelligence of the NPCs, audio, visuals, etc. 
+* Developing and implementing game software 
+* Ensuring that the game design is fully implemented and performs as expected
+* Creating unit tests and validation procedures, and documenting technical specifications
+* Working closely with a lead game developer to create task/project deliverables
+* Interface with Quality Assurance, Game Producers, Game Designers, Artists, Mathematicians, and Sound Designers
+
 ## Required education
 Generally requires a bachelor in computer science or software engineering. Sometimes an unrelated degree is satisfactory if the person is proficient in relevant programming languages. 
 
@@ -98,8 +105,9 @@ The University of Toronto offers entrance into Computer Science, where you can e
 ## Description of first year program (courses) that you would take
 Students will take first year calculus, 3-4 computer programming courses and two to three additonal half courses. 
 ![pic1](https://user-images.githubusercontent.com/82913336/116168200-e5df7480-a6cf-11eb-8ab8-764feabeab91.png)
+(University of Toronto, 2014)
 ![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
-
+(University of Toronto, 2014)
 ## The length of time to complete the degree or diploma for the course 
 Computer Science at the Universty of Toronto is a four year program.
 ## Valuable experiential learning opportunities that make for a stronger job candidate
@@ -119,8 +127,10 @@ Computer Science at the Universty of Toronto is a four year program.
 
 MasterClass. “How to Become a Video Game Developer.” MasterClass, MasterClass, 20 July 2020, www.masterclass.com/articles/how-to-become-a-video-game-developer#learn-more. Accessed 23 Apr. 2021.
 
+TalentLyft. “Game Programmer Job Description Template.” Recruiting and Hiring Resources, 2021, www.talentlyft.com/en/resources/game-programmer-job-description. Accessed 27 Apr. 2021.
+
 Target Jobs. “Video Game Developer: Job Description.” TARGETjobs, 28 Mar. 2017, targetjobs.co.uk/careers-advice/job-descriptions/455349-video-game-developer-job-description#:~:text=Video%20game%20developers%20take%20a,a%20playable%20game%20for%20users.&text=Video%20game%20developers%2C%20also%20known,web%20browsers%20and%20mobile%20phones.. Accessed 22 Apr. 2021.
-‌
+
 
 ‌
 
