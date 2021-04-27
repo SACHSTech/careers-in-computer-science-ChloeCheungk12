@@ -106,3 +106,21 @@ Computer Science at the Universty of Toronto is a four year program.
 * Build a portfolio and fill it with personal projects. Make a game that demonstrates technical skills
 * Run a blog regarding video games
 * Attend conventions regarding video game development. Network and find people who have already achieved your goals (connections turn into opportunity)
+## Works Cited
+“Backend Programmer (MMO Game Services) Clapfoot Inc. Job (with Salary!) | Workopolis.” Workopolis, 5 Apr. 2021, www.workopolis.com/jobsearch/find-jobs?ak=Backend+Programmer+%28MMO+Game+Services%29+Clapfoot+Inc.&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA. Accessed 26 Apr. 2021.
+
+“Game Developer.” Workopolis, 5 Apr. 2021, www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw. Accessed 26 Apr. 2021.
+
+‌How to Apply to the CS Program — Department of Computer Science, University of Toronto. “Department of Computer Science, University of Toronto.” Department of Computer Science, University of Toronto, 2014, web.cs.toronto.edu/undergraduate/how-to-apply-to-the-cs-program. Accessed 23 Apr. 2021.
+
+‌K, Dustin. “Game Developer 101: The In-Depth Guide for 2020.” The Ultimate Resource for Video Game Design, 31 July 2017, www.gamedesigning.org/career/game-developer/. Accessed 23 Apr. 2021.
+
+“Lead Game Developer (Unity, VR).” Workopolis, 9 Apr. 2021, www.workopolis.com/jobsearch/creative-game-technologies-jobs/toronto-ontario?job=fLicNhRYASndxOPTRJ8iL-xy6tyW4DNTJ4sS5qgHt22Nd7U-_K0ToA. Accessed 26 Apr. 2021.
+
+MasterClass. “How to Become a Video Game Developer.” MasterClass, MasterClass, 20 July 2020, www.masterclass.com/articles/how-to-become-a-video-game-developer#learn-more. Accessed 23 Apr. 2021.
+
+Target Jobs. “Video Game Developer: Job Description.” TARGETjobs, 28 Mar. 2017, targetjobs.co.uk/careers-advice/job-descriptions/455349-video-game-developer-job-description#:~:text=Video%20game%20developers%20take%20a,a%20playable%20game%20for%20users.&text=Video%20game%20developers%2C%20also%20known,web%20browsers%20and%20mobile%20phones.. Accessed 22 Apr. 2021.
+‌
+
+‌
+
