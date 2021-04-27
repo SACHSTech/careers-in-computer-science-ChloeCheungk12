@@ -99,5 +99,5 @@ Students will take first year calculus, 3-4 computer programming courses and two
 ![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
 
 ## the length of time to complete the degree or diploma for the course 
-
+Computer Science at the Universty of Toronto is a four year program.
 ## Valuable experiential learning opportunities that make for a stronger job candidate
