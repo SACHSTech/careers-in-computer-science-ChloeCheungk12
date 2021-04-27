@@ -18,16 +18,19 @@ Generally requires a bachelor in computer science or software engineering. Somet
 ## Required technical and non-technical skills
 ### Technical: 
 * Proficiency in languages such as C++ and C#
+* Experience building libraries and APIs
 ### Non technical:
 * Creativity
 * Collaborative abilities
 * Knowledge of gaming trends
 
 ## Examples of an Entry Level, Average, and High Level jobs with salary Range
-Generally, the salary of a video game developer in the US is:
-* A minimum of $37k/year
-* A maximum of $119k/year 
-* A median of $68k/year
+General salary of a video game developer in the US:
+
+|Minimum|Maximum|Median |
+|---|---|
+|$37k/year|$68k/year|$119k/year|
+
 
 ### Entry Level job
 #### Game Developer at Creative Game Technologies (Toronto, ON)
