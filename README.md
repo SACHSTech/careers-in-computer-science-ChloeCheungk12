@@ -95,6 +95,8 @@ The University of Toronto offers entrance into Computer Science, where you can e
 
 ## description of first year program (courses) that you would take
 Students will take first year calculus, 3-4 computer programming courses and two to three additonal half courses. 
+![pic1](https://user-images.githubusercontent.com/82913336/116168200-e5df7480-a6cf-11eb-8ab8-764feabeab91.png)
+![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
 
 ## the length of time to complete the degree or diploma for the course 
 
