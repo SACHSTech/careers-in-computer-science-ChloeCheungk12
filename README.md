@@ -87,7 +87,11 @@ Experience with:
 ## College and/or universities that offers entrance into a related program 
 The University of Toronto offers entrance into Computer Science, where you can earn a Bachelor of Computer Science
 ## Entrance requirements
+* Ontario Secondary School Diploma
 
+* Six 4U/M courses, including:
+-Calculus & Vectors (MCV4U)
+-English (ENG4U)
 
 ## description of first year program (courses) that you would take
 
