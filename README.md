@@ -94,6 +94,7 @@ The University of Toronto offers entrance into Computer Science, where you can e
 -English (ENG4U)
 
 ## description of first year program (courses) that you would take
+Students will take first year calculus, 3-4 computer programming courses and two to three additonal half courses. 
 
 ## the length of time to complete the degree or diploma for the course 
 
