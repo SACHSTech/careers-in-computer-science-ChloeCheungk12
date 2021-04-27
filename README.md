@@ -62,36 +62,34 @@ Generally, the salary of a video game developer in the US is:
 
 ##### Estimated Salary
 73k-100k/year
-[Workopolis Job Posting](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA)
+[Workopolis Job Posting](https://www.workopolis.com/jobsearch/find-jobs?ak=backend+clapfoot&l=toronto+ontario&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA)
 ### Senior Level Job
-#### Lead Game Developer (Unity, VR) at Dark Slope (Toronto, ON)
+#### Senior/ Lead Web Game Engineer (Developer) at Knowledgehook Inc. (Toronto, ON)
 ##### Actual Job description
-* Lead a programming team to develop new technologies and game systems
-* Build and mentor a world-class programming team
-Strike a balance between coding, supporting team members, and management tasks
-* Help establish clear coding best practices and lead regular code reviews
-* Ensure the creation of strong technical documentation
-* Develop systems to support the functionality of games and ensure their integration (engine, gameplay, AI, sound, animation, FX etc.)
-* Collaborate with designers and artists to implement and refine gameplay features
-* Collaborate with producers to anticipate, identify and articulate technical and developmental risks and obstacles, and generate solutions
-* Participate in all project phases, from concept to maintenance
-* Ensure timely and high-quality modular software development, including code reviews and testing
-* Independently implement complex components of interactive applications
-* Advise less experienced developers regarding their implementation approaches
+* As a Senior/ Lead Web Game Engineer, you will be responsible for building gameplay systems and features using the Phaser game engine. You will work closely with our team of developers, designers and producers to build a new game experience from scratch: get in on the ground-floor of new product innovations, as a high impact key contributor.
+* Full software lifecycle application development – designing, coding, debugging and documenting applications
+* Proactively collaborate with teammates and communicate with project stakeholders to ensure project efforts proceed efficiently and with predictability
+* Lead in all phases of design and programming activities
+* Collaborate with architects and product managers on design decisions and directions for product requirements
+* Collaborate with designers to ensure that their vision aligns with the ability to build our platform
+* Build and maintain core engine components, pipelines and tools on multiple hardware platforms
+* Accurately estimate schedules and deliver high quality work products
+* Ensure quality of code meets the required standards
+
 
 ##### Job Requirements (Beyond those of standard jobs)
-Experience with: 
-* Build server and Swarm pipeline setup
-* Continuous Integration
-* VR 3 point avatars
-* Behaviour Trees
-* ARKit & ARCore
-* OpenXR
-* Oculus, SteamVR, Playstation VR, Windows Mixed Reality, HoloLens, MagicLeap
+* Deep knowledge of web front-end development, including Typescript, Canvas, WebGL
+* Experience with Phaser or Pixi JS is considered an asset
+* Experience working on live-service game development cycles is an asset
+* Experience working on a live service (post-release) game is an asset
+* Understanding of backend web development is an asset
+* Experience managing a team of developers is considered an asset
+* Experience interfacing with RESTful and realtime websocket APIs
+* Experience working in an Agile environment
 
 ##### Salary
-67k-91k/year
-[Workopolis Job Posting](https://www.workopolis.com/jobsearch/creative-game-technologies-jobs/toronto-ontario?job=fLicNhRYASndxOPTRJ8iL-xy6tyW4DNTJ4sS5qgHt22Nd7U-_K0ToA)
+82k-110k/year
+[Workopolis Job Posting](https://www.workopolis.com/jobsearch/senior-game-developer-jobs/toronto-ontario?job=w_mDy96078e1P3AYkDzg5yknV_-Do_i7tJxGvnJ5rEpXk_2_m1g_hw)
 
 ## College and/or universities that offers entrance into a related program 
 The University of Toronto offers entrance into Computer Science, where you can earn a Bachelor of Computer Science
