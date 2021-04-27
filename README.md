@@ -93,6 +93,8 @@ Generally, the salary of a video game developer in the US is:
 
 ## College and/or universities that offers entrance into a related program 
 The University of Toronto offers entrance into Computer Science, where you can earn a Bachelor of Computer Science
+![uoft](https://user-images.githubusercontent.com/82913336/116292993-5932c600-a764-11eb-9eb6-d257d2a87790.png)
+
 ## Entrance requirements
 * Ontario Secondary School Diploma
 
@@ -100,6 +102,9 @@ The University of Toronto offers entrance into Computer Science, where you can e
 -Calculus & Vectors (MCV4U)
 -English (ENG4U)
 
+Approximate Admission Range: Low 90s 
+
+[Click for more information](https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3)
 ## Description of first year program (courses) that you would take
 Students will take first year calculus, 3-4 computer programming courses and two to three additonal half courses. 
 ![pic1](https://user-images.githubusercontent.com/82913336/116168200-e5df7480-a6cf-11eb-8ab8-764feabeab91.png)
@@ -114,6 +119,8 @@ Computer Science at the Universty of Toronto is a four year program.
 * Attend conventions regarding video game development. Network and find people who have already achieved your goals (connections turn into opportunity)
 ## Works Cited
 “Backend Programmer (MMO Game Services) Clapfoot Inc. Job (with Salary!) | Workopolis.” Workopolis, 5 Apr. 2021, www.workopolis.com/jobsearch/find-jobs?ak=Backend+Programmer+%28MMO+Game+Services%29+Clapfoot+Inc.&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA. Accessed 26 Apr. 2021.
+
+“Computer Science Admission Category.” Faculty of Arts & Science, 12 Dec. 2019, www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3. Accessed 27 Apr. 2021.
 
 “Game Developer.” Workopolis, 5 Apr. 2021, www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw. Accessed 26 Apr. 2021.
 
