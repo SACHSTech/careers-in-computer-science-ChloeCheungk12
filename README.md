@@ -29,7 +29,7 @@ General salary of a video game developer in the US:
 
 |Minimum|Maximum|Median |
 |---|---|
-|$37k/year|$68k/year|$119k/year|
+|$37k/year|$119k/year|$68k/year|
 
 
 ### Entry Level job
