@@ -28,7 +28,7 @@ Generally requires a bachelor in computer science or software engineering. Somet
 General salary of a video game developer in the US:
 
 |Minimum|Maximum|Median |
-|---|---|
+|---|---|--|
 |$37k/year|$119k/year|$68k/year|
 
 
@@ -110,9 +110,28 @@ Approximate Admission Range: Low 90s
 [Click for more information](https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3)
 ## Description of first year program (courses) that you would take
 Students will take first year calculus, 3-4 computer programming courses and two to three additonal half courses. 
-![pic1](https://user-images.githubusercontent.com/82913336/116168200-e5df7480-a6cf-11eb-8ab8-764feabeab91.png)
 
+**For students with little or no programming experience:**
+
+|Fall 2018|Winter 2018|
+|---|---|
+|CSC108H1|CSC148H1 and CSC165H1/CSC240H1|
+|First-year calculus: MAT137Y or MAT157Y or (MAT135H1 and MAT136H)|First-year calculus: MAT137Y or MAT157Y or (MAT135H1 and MAT136H)|
+|Three additional half courses (or the equivalent)|Two additional half courses (or the equivalent)|
+
+**Students with programming experience roughly equivalent to CSC108H1**
+
+|Fall 2018|Winter 2018|
+|---|---|
+|CSC148H1 and CSC165H1|CSC207H1 and CSC236H1/CSC240H1|
+|First-year calculus: MAT137Y or MAT157Y or (MAT135H1 and MAT136H)|First-year calculus: MAT137Y or MAT157Y or (MAT135H1 and MAT136H)|
+|Two additional half courses (or the equivalent)|Two additional half courses (or the equivalent)|
+
+*Students are strongly encouraged to take MAT137Y or MAT157Y as they have been determined to provide the best preparation for upper-year courses in computer science and benefit students in CSC165H/CSC240H.*
+
+*Grades in CSC148H1 and CSC165H1/CSC240H1 are used for admission to Computer Science Programs of Study.*
 (University of Toronto, 2014)
+
 ![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
 (University of Toronto, 2014)
 ## The length of time to complete the degree or diploma for the course 
