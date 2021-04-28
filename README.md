@@ -100,7 +100,7 @@ General salary of a video game developer in the US:
 ## College and/or universities that offers entrance into a related program 
 The University of Toronto offers entrance into Computer Science, where you can earn a Bachelor of Computer Science
 
-<img src="https://user-images.githubusercontent.com/82913336/116449312-0ae6fb00-a828-11eb-9118-15e865c6e681.png" width="100">
+<img src="https://user-images.githubusercontent.com/82913336/116449312-0ae6fb00-a828-11eb-9118-15e865c6e681.png" width="750">
 
 ## Entrance requirements
 * Ontario Secondary School Diploma
