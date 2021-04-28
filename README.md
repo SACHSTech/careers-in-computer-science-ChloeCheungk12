@@ -5,7 +5,7 @@
 Takes a game concept from a game designer and turns it into a playable game through programming.
 
 ![gamedev](https://user-images.githubusercontent.com/82913336/116448160-cb6bdf00-a826-11eb-9f87-94952bcf61cb.png)
-
+(Editorial Team, 2018)
 
 ## Typical duties and responsibilities
 * They program the terrain, artificial intelligence of the NPCs, audio, visuals, etc. 
@@ -137,6 +137,8 @@ Students will take first year calculus, 3-4 computer programming courses and two
 
 ![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
 
+
+<img src="https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png" width="500">
 
 
 (University of Toronto, 2014)
