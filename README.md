@@ -4,6 +4,9 @@
 **Video Game Developer** 
 Takes a game concept from a game designer and turns it into a playable game through programming.
 
+![gamedev](https://user-images.githubusercontent.com/82913336/116448160-cb6bdf00-a826-11eb-9f87-94952bcf61cb.png)
+
+
 ## Typical duties and responsibilities
 * They program the terrain, artificial intelligence of the NPCs, audio, visuals, etc. 
 * Developing and implementing game software 
@@ -133,6 +136,9 @@ Students will take first year calculus, 3-4 computer programming courses and two
 (University of Toronto, 2014)
 
 ![Untitled drawing (31)](https://user-images.githubusercontent.com/82913336/116168331-23dc9880-a6d0-11eb-9dbf-d8980abf8d82.png)
+
+
+
 (University of Toronto, 2014)
 ## The length of time to complete the degree or diploma for the course 
 Computer Science at the Universty of Toronto is a four year program.
@@ -145,6 +151,9 @@ Computer Science at the Universty of Toronto is a four year program.
 
 “Computer Science Admission Category.” Faculty of Arts & Science, 12 Dec. 2019, [www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3](https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3). Accessed 27 Apr. 2021.
 
+Editorial Team. “Game Developer’s Guide: How to Become a Game Developer.” IT Starter Series, 14 May 2018, [itstarterseries.com/how-to-become-a-video-game-developer/](https://itstarterseries.com/how-to-become-a-video-game-developer/). Accessed 28 Apr. 2021.
+
+‌
 “Game Developer.” Workopolis, 5 Apr. 2021, [www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=RjEJKNaWOm-ILJZ5BLv_97fnCH3crbNhMaBBFvyjpW_R-OfHOq0R3A). Accessed 26 Apr. 2021.
 
 ‌How to Apply to the CS Program — Department of Computer Science, University of Toronto. “Department of Computer Science, University of Toronto.” Department of Computer Science, University of Toronto, 2014, [web.cs.toronto.edu/undergraduate/how-to-apply-to-the-cs-program](https://web.cs.toronto.edu/undergraduate/how-to-apply-to-the-cs-program). Accessed 23 Apr. 2021.
